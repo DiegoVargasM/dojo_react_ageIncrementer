@@ -1,4 +1,4 @@
-This project was made using Create-React-App, using:
+This project was made with Create-React-App, using:
 
 *Class components
 *Component this.state
